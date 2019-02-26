@@ -1,0 +1,13 @@
+---
+name: Sergio Uribe
+date: "`r format(Sys.time(), '%B, %Y')`"
+# profilepic: pic.jpg
+website: sergiouri.be
+github: sergiouribe
+linkedin: sergiouribe
+twitter: sergiouribe
+headcolor: 414141
+output: vitae::awesomecv
+---
+
+
